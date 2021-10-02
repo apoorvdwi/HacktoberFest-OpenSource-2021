@@ -101,7 +101,6 @@ export default {
           description:
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast",
         },
-
         {
           name: "Sahitya Roy",
           url: "https://www.linkedin.com/in/sahitya-roy/",
@@ -122,6 +121,12 @@ export default {
           picture: require("~/assets/Contributors/Bhaveshgoyal182.jpg"),
           description:
             "Junior | DevRel Enthusiast | Aspiring Full Stack Developer | Ex-Android Facilitator"
+        },
+        {
+          name: "Narayan Soni",
+          url: "https://www.linkedin.com/in/narayan-soni",
+          picture: require("~/assets/Contributors/narayan_soni.png"),
+          description: "Competitive coder | Freelancer | Open Source and Tech Enthusiast | ML Enthusiast"
         },
         {
           name: "Sriniketh J",
