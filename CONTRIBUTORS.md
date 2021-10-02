@@ -53,6 +53,12 @@
 - LinkedIn: [Sahitya Roy](https://www.linkedin.com/in/sahitya-roy/)
 - Github: [SahityaRoy](https://github.com/SahityaRoy)
 
+#### Name: [Narayan Soni](https://github.com/narayan954)
+
+- Place: Delhi, India
+- Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Traveler | Open Source enthusiast | Microsoft Windows user | B.Tech CSE'24
+- LinkedIn: [Narayan Soni](https://www.linkedin.com/in/narayan-soni)
+
 #### Name: [Manav Bansal](https://github.com/manavbansalcoder)
 
 - Place: Delhi, India
