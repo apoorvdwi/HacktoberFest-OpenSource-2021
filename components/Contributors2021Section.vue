@@ -135,6 +135,13 @@ export default {
           description:
             "DS & ML Enthusiast | Learning WebDev | Sophomore at PSG iTech | GWOC- Contributor | HTF Evangelist | DS Intern @LGM @ TSF | Ninja Entrepreneur | CA@E-Cell, TechFest, MoodIndigo IIT-Bombay"
         },
+        {
+          name: "Ish Kapoor",
+          url: "https://www.linkedin.com/in/ish-kapoor-2000ish/",
+          picture: require("~/assets/Contributors/Ish.png"),
+          description:
+            "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],

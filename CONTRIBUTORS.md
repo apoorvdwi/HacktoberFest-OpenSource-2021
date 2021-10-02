@@ -75,3 +75,9 @@
 - Place: India
 - Bio: DS & ML Enthusiast | Learning WebDev | Sophomore at PSG iTech | GWOC- Contributor | HTF Evangelist | DS Intern @LGM @TSF | Ninja Entrepreneur | CA@E-Cell, TechFest, MoodIndigo IIT-Bombay
 - LinkedIn: [Sriniketh J](https://www.linkedin.com/in/sriniketh-jayasendil/)
+
+#### Name: [Ish Kapoor](https://github.com/ishkapoor2000)
+
+- Place: India
+- Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead
+- LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/ish-kapoor-2000ish/)
