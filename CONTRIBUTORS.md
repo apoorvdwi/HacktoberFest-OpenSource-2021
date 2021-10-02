@@ -7,3 +7,8 @@
 - Place: India
 - Bio: Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer
 - LinkedIn: [Manav Arora](https://www.linkedin.com/in/manav-arora-0090b5202/)
+
+#### Name: [Vaibhav Jamwal](https://github.com/despicabug)
+- Place: India
+- Bio: Web Developer
+- LinkedIn: [Vaibhav Jamwal](https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/)

@@ -62,6 +62,13 @@ export default {
           description:
             "Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer"
         },
+        {
+          name: "Vaibhav Jamwal",
+          url: "https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/",
+          picture: require("~/assets/Contributors/despicabug.jpg"),
+          description:
+            "Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ]
     };
