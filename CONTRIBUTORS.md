@@ -15,3 +15,21 @@
 - Place: India
 - Bio: Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT
 - LinkedIn: [Aayush Kumar](https://www.linkedin.com/in/aayushkum/)
+
+#### Name: [Prateek Gupta](https://github.com/Prateekg2050)
+
+- Place: India
+- Bio: Fullstack developer | cloud enthusiast | FreeLancer
+- LinkedIn: [Prateek Gupta](linkedin.com/in/prateek-gupta-a600b6128)
+
+#### Name: [Vaibhav Jamwal](https://github.com/despicabug)
+
+- Place: India
+- Bio: Web Developer
+- LinkedIn: [Vaibhav Jamwal](https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/)
+
+#### Name: [Sudeep Deysarker](https://github.com/Lunaticsatoshi)
+
+- Place: India
+- Bio: Software Engineer | Full stack Developer | Android Developer | ML Enthusiast
+- LinkedIn: [Sudeep Deysarker](www.linkedin.com/in/sudeep-deysarker)
