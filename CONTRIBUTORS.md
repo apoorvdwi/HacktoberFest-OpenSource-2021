@@ -15,3 +15,9 @@
 - Place: India
 - Bio: Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT
 - LinkedIn: [Aayush Kumar](https://www.linkedin.com/in/aayushkum/)
+
+#### Name: [Prateek Gupta](https://github.com/Prateekg2050)
+
+- Place: India
+- Bio: Fullstack developer | cloud enthusiast | FreeLancer
+- LinkedIn: [Prateek Gupta](linkedin.com/in/prateek-gupta-a600b6128)

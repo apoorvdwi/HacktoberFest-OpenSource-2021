@@ -68,8 +68,13 @@ export default {
           picture: require("~/assets/Contributors/aayush.jpeg"),
           description:
             "Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT",
+         },
+         {
+          name: "Prateek Gupta",
+          url: "linkedin.com/in/prateek-gupta-a600b6128",
+          picture: require("~/assets/Contributors/Prateek.jpeg"),
+          description: "Fullstack developer | cloud enthusiast | FreeLancer",
         },
-        // Add you data here in the above format, don't change the existing order
       ],
     };
   },
