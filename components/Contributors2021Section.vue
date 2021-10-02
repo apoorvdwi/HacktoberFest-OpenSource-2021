@@ -89,7 +89,7 @@ export default {
           picture: require("~/assets/Contributors/Natadesss.jpg"),
           description:
             "Student | DevOps Junior"
-        }
+        },
       ]
     };
   },
