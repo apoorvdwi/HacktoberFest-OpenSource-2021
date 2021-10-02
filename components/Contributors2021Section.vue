@@ -103,6 +103,13 @@ export default {
           description:
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
         },
+        {
+          name: "Vidhi sareen",
+          url: "https://www.linkedin.com/in/vidhi-sareen-58682b216/",
+          picture: require("~/assets/Contributors/vidhi.jpeg"),
+          description: "Student | Coding Ninjas Ambassador | ML Enthusiast"
+        }
+
 
         // Add you data here in the above format, don't change the existing order
       ]

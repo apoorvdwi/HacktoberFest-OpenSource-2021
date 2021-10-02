@@ -45,3 +45,11 @@
 - Place: India
 - Bio: GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast
 - LinkedIn: [Anubhav](https://www.linkedin.com/in/anubhavdev/)
+
+#### Name: [vidhi-sareen](https://github.com/vidhi-sareen)
+
+- Place: India
+- Bio: Student | Machine Learning enthusiast
+- Linkedin: [Vidhi Sareen](https://www.linkedin.com/in/vidhi-sareen-58682b216/)(
+    
+
