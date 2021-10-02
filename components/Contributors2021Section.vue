@@ -75,7 +75,22 @@ export default {
           picture: require("~/assets/Contributors/Prateek.jpeg"),
           description: "Fullstack developer | cloud enthusiast | FreeLancer",
         },
-      ],
+        {
+          name: "Vaibhav Jamwal",
+          url: "https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/",
+          picture: require("~/assets/Contributors/despicabug.jpg"),
+          description:
+            "Web Developer"
+        },
+        {
+          name: "Sudeep Deysarker",
+          url: "www.linkedin.com/in/sudeep-deysarker",
+          picture: require("~/assets/Contributors/lunaticsatoshi.jpg"),
+          description:
+            "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
+        },
+        // Add you data here in the above format, don't change the existing order
+      ]
     };
   },
 };
