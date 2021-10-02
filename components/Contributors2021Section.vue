@@ -68,8 +68,8 @@ export default {
           picture: require("~/assets/Contributors/aayush.jpg"),
           description:
             "Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT",
-         },
-         {
+        },
+        {
           name: "Prateek Gupta",
           url: "https://linkedin.com/in/prateek-gupta-a600b6128",
           picture: require("~/assets/Contributors/Prateek.jpeg"),
@@ -79,33 +79,39 @@ export default {
           name: "Vaibhav Jamwal",
           url: "https://www.linkedin.com/in/vaibhav-jamwal-4ba292194/",
           picture: require("~/assets/Contributors/despicabug.jpg"),
-          description:
-            "Web Developer"
+          description: "Web Developer",
         },
         {
           name: "Sudeep Deysarker",
           url: "https://www.linkedin.com/in/sudeep-deysarker",
           picture: require("~/assets/Contributors/lunaticsatoshi.jpg"),
           description:
-            "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
+            "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast",
         },
         {
           name: "Alif Naufal Ilyas",
           url: "https://www.linkedin.com/in/alif-naufal-ilyas-b177a1207",
           picture: require("~/assets/Contributors/Natadesss.jpg"),
-          description:
-            "Student | DevOps Junior"
+          description: "Student | DevOps Junior",
         },
         {
           name: "Anubhav",
           url: "https://www.linkedin.com/in/anubhavdev/",
           picture: require("~/assets/Contributors/anubhav.png"),
           description:
-            "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
+            "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast",
+        },
+
+        {
+          name: "Sahitya Roy",
+          url: "https://www.linkedin.com/in/sahitya-roy/",
+          picture: require("~/assets/Contributors/Sahitya.jpg"),
+          description:
+            "Co-Founder EduhubCommunity.tech| Building India's largest higher edtech community | Open Source enthusiast || Intern Geeksforgeeks || Keynote Speaker| Project Admin DevIncept | Youtuber || B.Tech CSE'24",
         },
 
         // Add you data here in the above format, don't change the existing order
-      ]
+      ],
     };
   },
 };

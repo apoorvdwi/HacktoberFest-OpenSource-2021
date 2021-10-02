@@ -51,3 +51,11 @@
 - Place: Delhi, India
 - Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
 - LinkedIn: [Manav Bansal](https://www.linkedin.com/in/manavbansal11031998/)
+
+#### Name: [Sahitya Roy](https://github.com/SahityaRoy)
+
+- Place: India
+- Bio: Co-Founder EduhubCommunity.tech| Building India's largest higher edtech community | Open Source enthusiast || Intern Geeksforgeeks || Keynote Speaker| Project Admin DevIncept | Youtuber || B.Tech CSE'24
+- LinkedIn: [Sahitya Roy](https://www.linkedin.com/in/sahitya-roy/)
+- Github: [SahityaRoy](https://github.com/SahityaRoy)
+
