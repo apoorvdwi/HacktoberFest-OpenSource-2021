@@ -53,7 +53,7 @@
 - LinkedIn: [Sahitya Roy](https://www.linkedin.com/in/sahitya-roy/)
 - Github: [SahityaRoy](https://github.com/SahityaRoy)
 
-#### Name: [Manav bansal](https://github.com/manavbansalcoder)
+#### Name: [Manav Bansal](https://github.com/manavbansalcoder)
 
 - Place: Delhi, India
 - Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
