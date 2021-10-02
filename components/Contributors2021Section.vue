@@ -63,6 +63,13 @@ export default {
             "Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer"
         },
         // Add you data here in the above format, don't change the existing order
+        {
+          name: "Sudeep Deysarker",
+          url: "www.linkedin.com/in/sudeep-deysarker",
+          picture: require("~/assets/Contributors/lunaticsatoshi.jpg"),
+          description:
+            "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
+        },
       ]
     };
   }

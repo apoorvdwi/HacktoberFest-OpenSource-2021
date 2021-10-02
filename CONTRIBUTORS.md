@@ -7,3 +7,8 @@
 - Place: India
 - Bio: Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer
 - LinkedIn: [Manav Arora](https://www.linkedin.com/in/manav-arora-0090b5202/)
+
+#### Name: [Sudeep Deysarker](https://github.com/Lunaticsatoshi)
+- Place: India
+- Bio: Software Engineer | Full stack Developer | Android Developer | ML Enthusiast
+- LinkedIn: [Sudeep Deysarker](www.linkedin.com/in/sudeep-deysarker)
