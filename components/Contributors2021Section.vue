@@ -83,6 +83,13 @@ export default {
             "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
         },
         // Add you data here in the above format, don't change the existing order
+        {
+          name: "Alif Naufal Ilyas",
+          url: "https://www.linkedin.com/in/alif-naufal-ilyas-b177a1207",
+          picture: require("~/assets/Contributors/Natadesss.jpg"),
+          description:
+            "Student | DevOps Junior"
+        }
       ]
     };
   },
