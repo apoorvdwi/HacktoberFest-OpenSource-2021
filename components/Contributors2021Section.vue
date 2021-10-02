@@ -103,6 +103,13 @@ export default {
           description:
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
         },
+        {
+          name: "Bhavesh Goyal",
+          url: "https://www.linkedin.com/in/bhaveshgoyal182/",
+          picture: require("~/assets/Contributors/Bhaveshgoyal182.jfif"),
+          description:
+            "Junior | DevRel Enthusiast | Aspiring Full Stack Developer | Ex-Android Facilitator"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ]
