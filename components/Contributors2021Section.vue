@@ -65,7 +65,7 @@ export default {
         {
           name: "Aayush Kumar",
           url: "https://www.linkedin.com/in/aayushkum/",
-          picture: require("~/assets/Contributors/aayush.jpeg"),
+          picture: require("~/assets/Contributors/aayush.jpg"),
           description:
             "Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT",
         },
