@@ -104,6 +104,13 @@ export default {
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
         },
 
+        {
+    name: "Sahitya Roy",
+    url: "https://www.linkedin.com/in/sahitya-roy/",
+    picture: require("~/assets/Contributors/Sahitya.jpg"),
+    description: "Co-Founder EduhubCommunity.tech| Building India's largest higher edtech community | Open Source enthusiast || Intern Geeksforgeeks || Keynote Speaker| Project Admin DevIncept | Youtuber || B.Tech CSE'24"
+}
+
         // Add you data here in the above format, don't change the existing order
       ]
     };
