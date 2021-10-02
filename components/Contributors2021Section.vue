@@ -116,6 +116,13 @@ export default {
             "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie",
         },
         {
+          name: "Bhavesh Goyal",
+          url: "https://www.linkedin.com/in/bhaveshgoyal182",
+          picture: require("~/assets/Contributors/Bhaveshgoyal182.jpg"),
+          description:
+            "Junior | DevRel Enthusiast | Aspiring Full Stack Developer | Ex-Android Facilitator"
+        },
+        {
           name: "Narayan Soni",
           url: "https://www.linkedin.com/in/narayan-soni",
           picture: require("~/assets/Contributors/narayan_soni.png"),

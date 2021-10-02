@@ -20,7 +20,7 @@
 
 - Place: India
 - Bio: Fullstack developer | cloud enthusiast | FreeLancer
-- LinkedIn: [Prateek Gupta](linkedin.com/in/prateek-gupta-a600b6128)
+- LinkedIn: [Prateek Gupta](https://linkedin.com/in/prateek-gupta-a600b6128)
 
 #### Name: [Vaibhav Jamwal](https://github.com/despicabug)
 
@@ -32,7 +32,7 @@
 
 - Place: India
 - Bio: Software Engineer | Full stack Developer | Android Developer | ML Enthusiast
-- LinkedIn: [Sudeep Deysarker](www.linkedin.com/in/sudeep-deysarker)
+- LinkedIn: [Sudeep Deysarker](https://linkedin.com/in/sudeep-deysarker)
 
 #### Name: [Alif Naufal Ilyas](https://github.com/Lunaticsatoshi)
 
@@ -51,7 +51,6 @@
 - Place: India
 - Bio: Co-Founder EduhubCommunity.tech| Building India's largest higher edtech community | Open Source enthusiast || Intern Geeksforgeeks || Keynote Speaker| Project Admin DevIncept | Youtuber || B.Tech CSE'24
 - LinkedIn: [Sahitya Roy](https://www.linkedin.com/in/sahitya-roy/)
-- Github: [SahityaRoy](https://github.com/SahityaRoy)
 
 #### Name: [Narayan Soni](https://github.com/narayan954)
 
@@ -64,3 +63,9 @@
 - Place: Delhi, India
 - Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
 - LinkedIn: [Manav Bansal](https://www.linkedin.com/in/manavbansal11031998/)
+
+#### Name: [Bhavesh Goyal](https://github.com/bhaveshgoyal182)
+
+- Place: India
+- Bio: Junior | DevRel Enthusiast | Aspiring Full Stack Developer
+- LinkedIn: [Bhavesh](https://www.linkedin.com/in/bhaveshgoyal182/)
