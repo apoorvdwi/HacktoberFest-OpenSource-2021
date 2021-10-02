@@ -106,7 +106,7 @@ export default {
         {
           name: "Bhavesh Goyal",
           url: "https://www.linkedin.com/in/bhaveshgoyal182",
-          picture: require("~/assets/Contributors/Bhaveshgoyal182.jfif"),
+          picture: require("~/assets/Contributors/Bhaveshgoyal182.jpg"),
           description:
             "Junior | DevRel Enthusiast | Aspiring Full Stack Developer | Ex-Android Facilitator"
         },
