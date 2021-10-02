@@ -96,6 +96,13 @@ export default {
           description:
             "Student | DevOps Junior"
         },
+        {
+          name: "Manav Bansal",
+          url: "https://www.linkedin.com/in/manavbansalcoder",
+          picture: require("~/assets/Contributors/Manav Bansal.jfif"),
+          description:
+            "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie"
+        },
         // Add you data here in the above format, don't change the existing order
       ]
     };
