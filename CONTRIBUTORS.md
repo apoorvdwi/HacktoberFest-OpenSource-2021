@@ -45,3 +45,9 @@
 - Place: India
 - Bio: GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast
 - LinkedIn: [Anubhav](https://www.linkedin.com/in/anubhavdev/)
+
+#### Name: [Manav Bansal](https://github.com/manavbansalcoder)
+
+- Place: Delhi, India
+- Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
+- LinkedIn: [Manav Bansal](https://www.linkedin.com/in/manavbansal11031998/)
