@@ -63,3 +63,9 @@
 - Place: India
 - Bio: Junior | DevRel Enthusiast | Aspiring Full Stack Developer
 - LinkedIn: [Bhavesh](https://www.linkedin.com/in/bhaveshgoyal182/)
+
+#### Name: [Sriniketh J](https://github.com/srini047)
+
+- Place: India
+- Bio: DS & ML Enthusiast | Learning WebDev | Sophomore at PSG iTech | GWOC- Contributor | HTF Evangelist | DS Intern @LGM @TSF | Ninja Entrepreneur | CA@E-Cell, TechFest, MoodIndigo IIT-Bombay
+- LinkedIn: [Sriniketh J](https://www.linkedin.com/in/sriniketh-jayasendil/)
