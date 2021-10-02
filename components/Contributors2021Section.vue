@@ -101,7 +101,6 @@ export default {
           description:
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast",
         },
-
         {
           name: "Sahitya Roy",
           url: "https://www.linkedin.com/in/sahitya-roy/",
@@ -115,6 +114,12 @@ export default {
           picture: require("~/assets/Contributors/Manav Bansal.jpg"),
           description:
             "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie",
+        },
+        {
+          name: "Narayan Soni",
+          url: "https://www.linkedin.com/in/narayan-soni",
+          picture: require("~/assets/Contributors/narayan_soni.png"),
+          description: "Competitive coder | Freelancer | Open Source and Tech Enthusiast | ML Enthusiast"
         },
 
         // Add you data here in the above format, don't change the existing order
