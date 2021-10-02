@@ -99,7 +99,7 @@ export default {
         {
           name: "Anubhav",
           url: "https://www.linkedin.com/in/anubhavdev/",
-          picture: require("~/assets/Contributors/Anubhav.jpg"),
+          picture: require("~/assets/Contributors/anubhav.jpg"),
           description:
             "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
         },
