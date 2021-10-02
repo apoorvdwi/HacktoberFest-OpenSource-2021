@@ -34,6 +34,12 @@
 - Bio: Software Engineer | Full stack Developer | Android Developer | ML Enthusiast
 - LinkedIn: [Sudeep Deysarker](www.linkedin.com/in/sudeep-deysarker)
 
+#### Name: [Alif Naufal Ilyas](https://github.com/Lunaticsatoshi)
+
+- Place: Indonesia
+- Bio: Student | DevOps Junior
+- LinkedIn: [Sudeep Deysarker](https://www.linkedin.com/in/alif-naufal-ilyas-b177a1207)
+
 #### Name: [Anubhav](https://github.com/anubhav201241)
 
 - Place: India
