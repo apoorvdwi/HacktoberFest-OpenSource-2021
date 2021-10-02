@@ -45,3 +45,11 @@
 - Place: India
 - Bio: GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast
 - LinkedIn: [Anubhav](https://www.linkedin.com/in/anubhavdev/)
+-
+
+
+#### Name: [Bhavesh Goyal](https://github.com/bhaveshgoyal182)
+
+- Place: India
+- Bio: Junior | DevRel Enthusiast | Aspiring Full Stack Developer
+- LinkedIn: [Bhavesh](https://www.linkedin.com/in/bhaveshgoyal182/)
