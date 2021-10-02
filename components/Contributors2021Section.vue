@@ -55,6 +55,13 @@ export default {
           description:
             "SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0"
         },
+        {
+          name: "Manav Arora",
+          url: "https://www.linkedin.com/in/manav-arora-0090b5202/",
+          picture: require("~/assets/Contributors/Manav.jpg"),
+          description:
+            "Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer"
+        },
         // Add you data here in the above format, don't change the existing order
       ]
     };
