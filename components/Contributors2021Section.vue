@@ -89,6 +89,14 @@ export default {
           description:
             "Software Engineer | Full stack Developer | Android Developer | ML Enthusiast"
         },
+        {
+          name: "Anubhav",
+          url: "https://www.linkedin.com/in/anubhavdev/",
+          picture: require("~/assets/Contributors/Anubhav.jpg"),
+          description:
+            "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
+        },
+        
         // Add you data here in the above format, don't change the existing order
       ]
     };
