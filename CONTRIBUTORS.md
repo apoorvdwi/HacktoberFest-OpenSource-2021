@@ -57,4 +57,4 @@
 
 - Place: Delhi, India
 - Bio: Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie
-- LinkedIn: [Anubhav](https://www.linkedin.com/in/manavbansal11031998/)
+- LinkedIn: [Manav Bansal](https://www.linkedin.com/in/manavbansal11031998/)
