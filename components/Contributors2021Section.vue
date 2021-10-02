@@ -97,12 +97,22 @@ export default {
             "Student | DevOps Junior"
         },
         {
+
           name: "Manav Bansal",
           url: "https://www.linkedin.com/in/manavbansal11031998",
           picture: require("~/assets/Contributors/Manav Bansal.jfif"),
           description:
             "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie"
         },
+     {
+          name: "Anubhav",
+          url: "https://www.linkedin.com/in/anubhavdev/",
+          picture: require("~/assets/Contributors/anubhav.png"),
+          description:
+            "GWOC'21 Mentor | AngelHack Ambassdor | Open Source and Tech Enthusiast | ML Enthusiast"
+        },
+
+
         // Add you data here in the above format, don't change the existing order
       ]
     };
