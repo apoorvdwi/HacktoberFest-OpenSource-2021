@@ -19,7 +19,7 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 Here are 3 quick and painless ways to contribute to this project:
 
 - Add your name to the `CONTRIBUTORS.md` file
-- Add you image in the assets/Contributors folder
+- Add you image in the assets/Contributors folder (make sure it is a square image 1:1 ratio)
 - Add your details in components/Contributors2021Section.vue
 
 See the below image for reference, where to add details
