@@ -9,7 +9,7 @@
             :key="index"
             :class="[
               'contributor-card',
-              `rot-${Math.floor(Math.random() * 24) * 15}`
+              `rot-${Math.floor(Math.random() * 24) * 15}`,
             ]"
           >
             <a
@@ -43,7 +43,7 @@ import HashHeader from "~/components/HashHeader";
 export default {
   components: {
     Container,
-    HashHeader
+    HashHeader,
   },
   data() {
     return {
@@ -53,19 +53,26 @@ export default {
           url: "https://www.linkedin.com/in/apoorvdwi",
           picture: require("~/assets/Contributors/apoorv.jpeg"),
           description:
-            "SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0"
+            "SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0",
         },
         {
           name: "Manav Arora",
           url: "https://www.linkedin.com/in/manav-arora-0090b5202/",
           picture: require("~/assets/Contributors/Manav.jpg"),
           description:
-            "Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer"
+            "Graphic Designer At Godwill Planners  | Flutter Developer | Game Developer | FreeLancer",
+        },
+        {
+          name: "Aayush Kumar",
+          url: "https://www.linkedin.com/in/aayushkum/",
+          picture: require("~/assets/Contributors/aayush.jpeg"),
+          description:
+            "Full Stack Developer | Ds-Algo | Android Lead at Google DSC NMIT",
         },
         // Add you data here in the above format, don't change the existing order
-      ]
+      ],
     };
-  }
+  },
 };
 </script>
 
