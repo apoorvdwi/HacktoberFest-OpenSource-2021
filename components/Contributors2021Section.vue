@@ -109,6 +109,13 @@ export default {
           description:
             "Co-Founder EduhubCommunity.tech| Building India's largest higher edtech community | Open Source enthusiast || Intern Geeksforgeeks || Keynote Speaker| Project Admin DevIncept | Youtuber || B.Tech CSE'24",
         },
+        {
+          name: "Manav Bansal",
+          url: "https://www.linkedin.com/in/manavbansal11031998/",
+          picture: require("~/assets/Contributors/Manav Bansal.jpg"),
+          description:
+            "Tech Enthusiast | Web Developer | Hackathons & Communities | Marketing | Ambassador | Traveler | Foodie",
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
