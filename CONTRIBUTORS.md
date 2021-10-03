@@ -81,3 +81,10 @@
 - Place: India
 - Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead
 - LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/ish-kapoor-2000ish/)
+
+
+#### Name: [Kushaggra Sharma](https://github.com/Kushaggra)
+
+- Place: India
+- Software Engineer | Full Stack Developer | Open Source enthusiast 
+- LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
