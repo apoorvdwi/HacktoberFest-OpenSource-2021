@@ -93,3 +93,9 @@
 - Place: India
 - Software Engineer | Full Stack Developer | Open Source enthusiast 
 - LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
+
+#### Name: [Prakhar](https://github.com/P22S)
+
+- Place: India
+- Software Engineer | Full Stack Developer | Open Source enthusiast 
+- LinkedIn: None
