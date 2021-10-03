@@ -81,3 +81,9 @@
 - Place: India
 - Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead
 - LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/ish-kapoor-2000ish/)
+
+#### Name: [Mrunank Pawar](https://github.com/mrunankpawar)
+
+- Place: India
+- Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead
+- LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/mrunankpawar/)

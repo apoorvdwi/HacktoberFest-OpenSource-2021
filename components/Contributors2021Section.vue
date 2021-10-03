@@ -142,6 +142,13 @@ export default {
           description:
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
+        {
+          name: "Mrunank Pawar",
+          url: "https://www.linkedin.com/in/mrunankpawar/",
+          picture: require("~/assets/Contributors/mrunank.png"),
+          description:
+            "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
