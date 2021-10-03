@@ -156,6 +156,14 @@ export default {
           description:
             "Software Engineer | Full Stack Developer | Open Source enthusiast "
         },
+        
+        {
+          name: "Prakhar Sharma",
+          url: "",
+          picture: require("~/assets/Contributors/Prakhar.jpeg"),
+          description:
+            "Software Engineer | Full Stack Developer | Open Source enthusiast "
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
