@@ -142,6 +142,13 @@ export default {
           description:
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
+          {
+          name: "Rhian Felipe",
+          url: "https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/",
+          picture: require("~/assets/Contributors/RhianFelipe.jpg"),
+          description:
+            "Frontend Web Developer | MD3 Developer | Future Computer Scientist"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],

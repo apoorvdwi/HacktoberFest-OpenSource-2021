@@ -81,3 +81,9 @@
 - Place: India
 - Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead
 - LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/ish-kapoor-2000ish/)
+
+#### Name: [Rhian Felipe](https://github.com/RhianFelipe)
+
+- Place: Brasil
+- Bio: Frontend Web Developer | MD3 Developer | Future Computer Scientist
+- LinkedIn: [Rhian Felipe](https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/)
