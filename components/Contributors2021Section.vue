@@ -142,6 +142,14 @@ export default {
           description:
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
+        {
+          name: "Kushaggra Sharma",
+          url: "https://www.linkedin.com/in/kushaggra-sharma/",
+          picture: require("~/assets/Contributors/Kushaggra.jpeg"),
+          description:
+            "Software Engineer | Full Stack Developer | Open Source enthusiast "
+        },
+
 
         // Add you data here in the above format, don't change the existing order
       ],
