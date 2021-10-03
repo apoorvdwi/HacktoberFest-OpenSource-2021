@@ -142,7 +142,13 @@ export default {
           description:
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
-
+{
+          name: "Prakhar Sharma",
+          url: "https://www.linkedin.com/in/prakhar-sharma-2206/",
+          picture: require("~/assets/Contributors/Prakhar_Sharma.jpg"),
+          description:
+            "Computer Science Engineer | Full Stack Developer | DSC-MAIT Web Development lead "
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
