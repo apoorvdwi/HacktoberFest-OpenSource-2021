@@ -86,4 +86,4 @@
 
 - Place: India
 - Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead
-- LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/mrunankpawar/)
+- LinkedIn: [Mrunank Pawar](https://www.linkedin.com/in/mrunankpawar/)
