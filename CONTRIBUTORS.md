@@ -81,3 +81,9 @@
 - Place: India
 - Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead
 - LinkedIn: [Ish Kapoor](https://www.linkedin.com/in/ish-kapoor-2000ish/)
+
+#### Name: [Prakhar Sharma](https://github.com/Prakharsharma2206)
+
+- Place: India
+- Robotics Engineer | Full Stack Developer | Keen learner | DSC Lead Web Development 
+- LinkedIn: [Prakhar Sharma](https://www.linkedin.com/in/prakhar-sharma-2206/)
