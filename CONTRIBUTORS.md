@@ -93,3 +93,10 @@
 - Place: India
 - Software Engineer | Full Stack Developer | Open Source enthusiast 
 - LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
+
+
+#### Name: [Kuwar Kapur](https://github.com/Kuwarkapur)
+
+- Place: India
+- Robotics enginner | BackEnd Developer | Machine learning developer | GSWOC- Contributor  
+- LinkedIn: [Kuwar Kapur](https://www.linkedin.com/in/kuwar-kapur-936aa0183/)
