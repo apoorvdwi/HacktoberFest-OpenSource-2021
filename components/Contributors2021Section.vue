@@ -159,7 +159,7 @@ export default {
         {
           name: "Kuwar Kapur",
           url: "https://www.linkedin.com/in/kuwar-kapur-936aa0183/",
-          picture: require("~/assets/Contributors/kuwar.png"),
+          picture: require("~/assets/Contributors/kuwar.jpg"),
           description:
             "Robotics enginner | BackEnd Developer | Machine learning developer | GSWOC- Contributor",
         },
