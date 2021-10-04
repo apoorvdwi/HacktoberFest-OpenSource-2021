@@ -156,6 +156,13 @@ export default {
           description:
             "Software Engineer | Full Stack Developer | Open Source enthusiast "
         },
+        {
+          name: "Bhaskar Sharma",
+          url: "https://www.linkedin.com/in/hoodooloo/",
+          picture: require("~/assets/Contributors/bhaskar.jpg"),
+          description:
+            "Web Developer | Software Engineer | ML Enthusiast "
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };

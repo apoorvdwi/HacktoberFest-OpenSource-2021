@@ -93,3 +93,10 @@
 - Place: India
 - Software Engineer | Full Stack Developer | Open Source enthusiast 
 - LinkedIn: [Kushaggra Sharma](https://www.linkedin.com/in/kushaggra-sharma/)
+
+
+#### Name: [Bhaskar Sharma](https://github.com/Hoodooloo)
+
+- Place: India
+- Bio: Web Developer | Software Engineer | ML Enthusiast
+- LinkedIn: [Bhaskar Sharma](https://www.linkedin.com/in/hoodooloo/)
