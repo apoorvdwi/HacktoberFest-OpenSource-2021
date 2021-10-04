@@ -143,11 +143,27 @@ export default {
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
         {
+
           name: "Mrunank Pawar",
           url: "https://www.linkedin.com/in/mrunankpawar/",
           picture: require("~/assets/Contributors/mrunank.PNG"),
           description:
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
+        },
+
+
+          name: "Prakhar Sharma",
+          url: "https://www.linkedin.com/in/prakhar-sharma-2206/",
+          picture: require("~/assets/Contributors/Prakhar_Sharma.jpg"),
+          description:
+            "Computer Science Engineer | Full Stack Developer | DSC-MAIT Web Development lead "
+        },
+        {
+          name: "Kushaggra Sharma",
+          url: "https://www.linkedin.com/in/kushaggra-sharma/",
+          picture: require("~/assets/Contributors/Kushaggra.jpeg"),
+          description:
+            "Software Engineer | Full Stack Developer | Open Source enthusiast "
         },
 
         // Add you data here in the above format, don't change the existing order
