@@ -143,15 +143,6 @@ export default {
             "Robotics Engineer | Frontend Web Developer | GWOC- Contributor | AngelHack APAC Ambassador | HackClub Co-Lead"
         },
         {
-
-          name: "Mrunank Pawar",
-          url: "https://www.linkedin.com/in/mrunankpawar/",
-          picture: require("~/assets/Contributors/mrunank.PNG"),
-          description:
-            "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
-        },
-
-
           name: "Prakhar Sharma",
           url: "https://www.linkedin.com/in/prakhar-sharma-2206/",
           picture: require("~/assets/Contributors/Prakhar_Sharma.jpg"),
@@ -164,6 +155,20 @@ export default {
           picture: require("~/assets/Contributors/Kushaggra.jpeg"),
           description:
             "Software Engineer | Full Stack Developer | Open Source enthusiast "
+        },
+        {
+          name: "Bhaskar Sharma",
+          url: "https://www.linkedin.com/in/hoodooloo/",
+          picture: require("~/assets/Contributors/bhaskar.jpg"),
+          description:
+            "Web Developer | Software Engineer | ML Enthusiast "
+        },
+        {
+          name: "Mrunank Pawar",
+          url: "https://www.linkedin.com/in/mrunankpawar/",
+          picture: require("~/assets/Contributors/mrunank.PNG"),
+          description:
+            "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
 
         // Add you data here in the above format, don't change the existing order
