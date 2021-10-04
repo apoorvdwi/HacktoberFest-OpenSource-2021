@@ -145,7 +145,7 @@ export default {
         {
           name: "Mrunank Pawar",
           url: "https://www.linkedin.com/in/mrunankpawar/",
-          picture: require("~/assets/Contributors/mrunank.png"),
+          picture: require("~/assets/Contributors/mrunank.PNG"),
           description:
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
