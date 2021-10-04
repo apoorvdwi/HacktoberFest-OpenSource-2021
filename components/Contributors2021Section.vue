@@ -156,6 +156,13 @@ export default {
           description:
             "Software Engineer | Full Stack Developer | Open Source enthusiast "
         },
+        {
+          name: "Kuwar Kapur",
+          url: "https://www.linkedin.com/in/kuwar-kapur-936aa0183/",
+          picture: require("~/assets/Contributors/kuwar.png"),
+          description:
+            "Robotics enginner | BackEnd Developer | Machine learning developer | GSWOC- Contributor",
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
