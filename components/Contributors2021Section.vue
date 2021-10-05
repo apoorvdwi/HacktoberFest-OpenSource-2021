@@ -170,7 +170,13 @@ export default {
           description:
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
-
+        {
+          name: "Chirag Goel",
+          url: "https://www.linkedin.com/in/chirag-goel-b578841b9/",
+          picture: require("~/assets/Contributors/Chirag.jpg"),
+          description:
+            "Student | MERN Stack developer | GWOC- Contributor"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
