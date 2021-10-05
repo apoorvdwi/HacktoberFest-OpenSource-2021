@@ -170,6 +170,13 @@ export default {
           description:
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
+        {
+          name: "Kuwar Kapur",
+          url: "https://www.linkedin.com/in/kuwar-kapur-936aa0183/",
+          picture: require("~/assets/Contributors/kuwar.jpg"),
+          description:
+            "Robotics Engineer | Backend Developer | Machine Learning Developer | GSWOC contributor"
+        },
 
         {
           name: "Sneha Sachdeva",
