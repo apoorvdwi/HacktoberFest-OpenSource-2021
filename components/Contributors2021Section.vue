@@ -171,6 +171,20 @@ export default {
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
         {
+          name: "Kuwar Kapur",
+          url: "https://www.linkedin.com/in/kuwar-kapur-936aa0183/",
+          picture: require("~/assets/Contributors/kuwar.jpg"),
+          description:
+            "Robotics Engineer | Backend Developer | Machine Learning Developer | GSWOC contributor"
+        },
+        {
+          name: "Sneha Sachdeva",
+          url: "https://www.linkedin.com/in/sneha-sachdeva-5129501b0/",
+          picture: require("~/assets/Contributors/Sneha.jpg"),
+          description:
+           "Student | Backend Intern at StartLadder| Tech Enthusiast"
+        },
+        {
           name: "Chirag Goel",
           url: "https://www.linkedin.com/in/chirag-goel-b578841b9/",
           picture: require("~/assets/Contributors/Chirag.jpg"),
