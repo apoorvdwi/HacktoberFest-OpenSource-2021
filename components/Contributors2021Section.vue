@@ -171,6 +171,14 @@ export default {
             "Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead"
         },
 
+        {
+          name: "Sneha Sachdeva",
+          url: "https://www.linkedin.com/in/sneha-sachdeva-5129501b0/",
+          picture: require("~/assets/Contributors/Sneha.jpg"),
+          description:
+           "Student | Backend Intern at StartLadder| Tech Enthusiast"
+        },
+
         // Add you data here in the above format, don't change the existing order
       ],
     };

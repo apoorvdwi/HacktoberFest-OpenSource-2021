@@ -105,3 +105,9 @@
 - Place: India
 - Student | Google Crowdsource Influencer| Spark AR Campus Ambassador | AngelHack Student Ambassador | Hack Club Lead
 - LinkedIn: [Mrunank Pawar](https://www.linkedin.com/in/mrunankpawar/)
+
+#### Name: [Sneha Sachdeva](https://github.com/Snehaa1203)
+
+- Place: India
+- Student | Backend Intern at StartLadder| Tech Enthusiast
+- LinkedIn: [Sneha Sachdeva](https://www.linkedin.com/in/sneha-sachdeva-5129501b0/)
