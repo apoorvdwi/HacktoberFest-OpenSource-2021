@@ -194,7 +194,7 @@ export default {
         {
           name: "Dishant Aggarwal",
           url: "https://www.linkedin.com/in/dishantagg24/",
-          picture: require("~/assets/Contributors/Dishant.jpg"),
+          picture: require("~/assets/Contributors/Dishant.png"),
           description:
             "Student | JS/React Lover | Programmer | Learner"
         },
