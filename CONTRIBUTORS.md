@@ -123,3 +123,9 @@
 - Place: India
 - Student | MERN Stack developer | GWOC- Contributor
 - LinkedIn: [Chirag Goel](https://www.linkedin.com/in/chirag-goel-b578841b9/)
+
+#### Name: [Dishant Aggarwal](https://github.com/dishantagg24)
+
+- Place: India
+- Student | JS/React Lover | Programmer | Learner
+- LinkedIn: [Dishant Aggarwal](https://www.linkedin.com/in/dishantagg24/)
