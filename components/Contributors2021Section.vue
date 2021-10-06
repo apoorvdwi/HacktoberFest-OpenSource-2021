@@ -198,6 +198,13 @@ export default {
           description:
             "Student | JS/React Lover | Programmer | Learner"
         },
+        {
+        name: "Aman Gupta",
+        url: "https://www.linkedin.com/in/aman-gupta12207/",
+        picture: require("~/assets/Contributors/aman_profile.jpg"),
+        description: "Student | GWOC- Contributor || Competitive Programmer || Open Source Enthusiast"
+        }
+
         // Add you data here in the above format, don't change the existing order
       ],
     };
