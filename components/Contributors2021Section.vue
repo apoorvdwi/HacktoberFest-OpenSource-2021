@@ -191,6 +191,13 @@ export default {
           description:
             "Student | MERN Stack developer | GWOC- Contributor"
         },
+        {
+          name: "Dishant Aggarwal",
+          url: "https://www.linkedin.com/in/dishantagg24/",
+          picture: require("~/assets/Contributors/Dishant.jpg"),
+          description:
+            "Student | JS/React Lover | Programmer | Learner"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
