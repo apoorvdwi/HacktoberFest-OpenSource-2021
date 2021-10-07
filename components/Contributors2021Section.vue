@@ -211,6 +211,13 @@ export default {
           description:
             "Competitive Programmer | Web Developer | Software Development Engineer"
         },
+        {
+          name: "Garvit Verma",
+          url: "https://linkedin.com/in/garvit-verma-95775321b",
+          picture: require("~/assets/Contributors/GarvitV957.jpg"),
+          description:
+            "Data Science and Machine learner | Competitive Programmer | Open Source Enthusiast"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
