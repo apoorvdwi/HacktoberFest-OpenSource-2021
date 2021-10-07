@@ -199,12 +199,19 @@ export default {
             "Student | JS/React Lover | Programmer | Learner"
         },
         {
+        name: "Aman Gupta",
+        url: "https://www.linkedin.com/in/aman-gupta12207/",
+        picture: require("~/assets/Contributors/aman_profile.jpg"),
+        description: "Student | GWOC- Contributor || Competitive Programmer || Open Source Enthusiast"
+        },
+        {
           name: "Mayank Jain",
           url: "https://www.linkedin.com/in/mayank-jain-4927a3191/",
           picture: require("~/assets/Contributors/Mayank_Jain.jpeg"),
           description:
             "Competitive Programmer | Web Developer | Software Development Engineer"
         },
+
         // Add you data here in the above format, don't change the existing order
       ],
     };

@@ -130,6 +130,12 @@
 - Student | JS/React Lover | Programmer | Learner
 - LinkedIn: [Dishant Aggarwal](https://www.linkedin.com/in/dishantagg24/)
 
+#### Name: [Aman Gupta](https://github.com/dishantagg24)
+
+- Place: India
+- Student | GWOC- Contributor || Competitive Programmer || Open Source Enthusiast
+- LinkedIn: [Aman Gupta](https://www.linkedin.com/in/aman-gupta12207/)
+
 #### Name: [Mayank Jain](https://github.com/Mayankjain301001)
 
 - Place: India
