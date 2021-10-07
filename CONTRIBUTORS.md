@@ -129,3 +129,9 @@
 - Place: India
 - Student | JS/React Lover | Programmer | Learner
 - LinkedIn: [Dishant Aggarwal](https://www.linkedin.com/in/dishantagg24/)
+
+#### Name: [Mayank Jain](https://github.com/Mayankjain301001)
+
+- Place: India
+- Competitive Programmer | Web Developer | Software Engineer
+- LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
