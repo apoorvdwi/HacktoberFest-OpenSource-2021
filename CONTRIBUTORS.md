@@ -141,3 +141,9 @@
 - Place: India
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
+
+#### Name: [Garvit Verma](https://github.com/GarvitV957)
+
+- Place: India
+- Student | Data Science and Machine learning | Competitive Programmer | Open Source Enthusiast
+- LinkedIn: [Garvit Verma](https://www.linkedin.com/in/garvit-verma-95775321b/)
