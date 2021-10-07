@@ -198,6 +198,13 @@ export default {
           description:
             "Student | JS/React Lover | Programmer | Learner"
         },
+        {
+          name: "Mayank Jain",
+          url: "https://www.linkedin.com/in/mayank-jain-4927a3191/",
+          picture: require("~/assets/Contributors/Mayank_Jain.jpeg"),
+          description:
+            "Competitive Programmer | Web Developer | Software Development Engineer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
