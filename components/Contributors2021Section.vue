@@ -211,6 +211,13 @@ export default {
           description:
             "Competitive Programmer | Web Developer | Software Development Engineer"
         },
+        {
+          name: "Palak Yadav",
+          url: "https://www.linkedin.com/in/palak-yadav-5901171a1/",
+          picture: require("~/assets/Contributors/palakyadav.png"),
+          description:
+            "Student || Competitive Programmer || Open Source Enthusiast"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],

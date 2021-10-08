@@ -141,3 +141,10 @@
 - Place: India
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
+
+#### Name: [Palak Yadav](https://github.com/palakyadav1807)
+
+- Place: India
+- Student || Competitive Programmer || Open Source Enthusiast
+- LinkedIn: [Palak Yadav](https://www.linkedin.com/in/palak-yadav-5901171a1/)
+
