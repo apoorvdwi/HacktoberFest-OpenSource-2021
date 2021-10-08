@@ -141,3 +141,9 @@
 - Place: India
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
+
+#### Name: [Rhian Felipe](https://github.com/RhianFelipe)
+
+- Place: Brasil
+- Bio: Frontend Web Developer | MD3 Developer | Future Computer Scientist
+- LinkedIn: [Rhian Felipe](https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/)
