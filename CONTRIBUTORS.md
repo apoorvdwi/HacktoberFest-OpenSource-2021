@@ -141,3 +141,9 @@
 - Place: India
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
+
+#### Name: [Zakariya Khan](https://github.com/Ardent10)
+
+- Place: New Delhi, India
+- Student | Web Developer | Open Source Enthusiast | Programmer | Footballer
+- LinkedIn: [Zakariya Khan](https://www.linkedin.com/in/zakariya-khan-590281137/)
