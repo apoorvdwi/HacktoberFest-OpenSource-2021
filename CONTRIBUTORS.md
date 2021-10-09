@@ -4,7 +4,13 @@
 - Bio: SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0
 - LinkedIn: [Apoorv Dwivedi](https://www.linkedin.com/in/apoorvdwi/)
 
-#### Name: [Manav Arora](https://github.com/ManavArora26)
+#### Name: [Kriti Pashine](https://github.com/Kriti-999)
+
+- Place: India
+- Student ||Programmer || Open Source Enthusiast || Frontend Developer
+- LinkedIn: [Kriti Pashine](https://www.linkedin.com/in/kriti-pashine-a66980202/)
+
+#### Name: [[Manav Arora](https://github.com/ManavArora26)
 
 - Place: India
 - Bio: Graphic Designer At Godwill Planners | Flutter Developer | Game Developer | FreeLancer

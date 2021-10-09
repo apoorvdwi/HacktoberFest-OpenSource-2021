@@ -225,6 +225,13 @@ export default {
           description:
             " Programmer | Web Developer | Open Source Enthusiast | Footballer "
         },
+		{
+          name: "Kriti Pashine",
+          url: "https://www.linkedin.com/in/kriti-pashine-a66980202/",
+          picture: require("~/assets/Contributors/Kriti-999.jpg"),
+          description:
+            "Student ||Programmer || Open Source Enthusiast|| Frontend Developer"
+        },
         {
           name: "Palak Yadav",
           url: "https://www.linkedin.com/in/palak-yadav-5901171a1/",
