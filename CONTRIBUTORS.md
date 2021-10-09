@@ -142,8 +142,27 @@
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
 
+#### Name: [Kratika Gupta](https://github.com/kratikagupta2002)
+
+- Place: India
+- Web Developer | Competitive Programmer | Google Cloud Facilitator
+- LinkedIn: [Kratika Gupta](https://www.linkedin.com/in/kratika-gupta-7495221a5/)
+
+#### Name: [Zakariya Khan](https://github.com/Ardent10)
+
+- Place: New Delhi, India
+- Student | Web Developer | Open Source Enthusiast | Programmer | Footballer
+- LinkedIn: [Zakariya Khan](https://www.linkedin.com/in/zakariya-khan-590281137/)
+
+#### Name: [Palak Yadav](https://github.com/palakyadav1807)
+
+- Place: India
+- Student || Competitive Programmer || Open Source Enthusiast
+- LinkedIn: [Palak Yadav](https://www.linkedin.com/in/palak-yadav-5901171a1/)
+
 #### Name: [Rhian Felipe](https://github.com/RhianFelipe)
 
 - Place: Brasil
 - Bio: Frontend Web Developer | MD3 Developer | Future Computer Scientist
 - LinkedIn: [Rhian Felipe](https://www.linkedin.com/in/rhian-felipe-silva-de-lara-1316311ab/)
+
