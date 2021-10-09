@@ -246,6 +246,13 @@ export default {
           description:
             "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
         },
+        {
+          name: "Rodrigo Labrador Serrano",
+          url: "https://www.linkedin.com/in/rodrigolabrador/",
+          picture: require("~/assets/Contributors/headstylecolorred.jpg"),
+          description:
+            "Developer | Climbing Enthusiast | SwiftUI freak | Always learning"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };

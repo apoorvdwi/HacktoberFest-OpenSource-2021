@@ -176,4 +176,4 @@
 
 - Place: Spain
 - Bio: Developer | Climbing Enthusiast | SwiftUI freak | Always learning
-- LinkedIn: [Rodrigo Labrador Serrano](https://www.linkedin.com/in/rodrigolabrador//)
+- LinkedIn: [Rodrigo Labrador Serrano](https://www.linkedin.com/in/rodrigolabrador/)
