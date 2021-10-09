@@ -211,7 +211,13 @@ export default {
           description:
             "Competitive Programmer | Web Developer | Software Development Engineer"
         },
-        
+        {
+          name: "Kratika Gupta",
+          url: "https://www.linkedin.com/in/kratika-gupta-7495221a5/",
+          picture: require("~/assets/Contributors/Kratika_Gupta.jpg"),
+          description:
+            "Web Developer | Competitive Programmer | Google Cloud Facilitator"
+        },
         {
           name: "Zakariya Khan",
           url: "https://www.linkedin.com/in/zakariya-khan-590281137/",
@@ -219,7 +225,6 @@ export default {
           description:
             " Programmer | Web Developer | Open Source Enthusiast | Footballer "
         },
-
         // Add you data here in the above format, don't change the existing order
       ],
     };
