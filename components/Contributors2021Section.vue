@@ -246,7 +246,13 @@ export default {
           description:
             "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
         },
-        // Add you data here in the above format, don't change the existing order
+        {
+          name: "Shubham Tribedi",
+          url: "https://www.linkedin.com/in/shubham-tribedi/",
+          picture: require("~/assets/Contributors/Shubham.png"),
+          description:
+            "GitHub Extern '21 | Community Specialist Unacademy | Open Source Enthusiast"
+        },
       ],
     };
   },
