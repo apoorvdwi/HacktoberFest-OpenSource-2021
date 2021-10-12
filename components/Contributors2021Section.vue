@@ -246,6 +246,13 @@ export default {
           description:
             "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
         },
+        {
+          name: "Gulshan Jakhon",
+          url: "https://www.linkedin.com/in/gulshankumarjakhon/",
+          picture: require("~/assets/Contributors/GulshanJakhon.png"),
+          description:
+            "Student | Linux Enthusiast | Web Developer | Google cloud Participants"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
