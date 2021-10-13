@@ -4,6 +4,12 @@
 - Bio: SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0
 - LinkedIn: [Apoorv Dwivedi](https://www.linkedin.com/in/apoorvdwi/)
 
+#### Name: [Abhishek Dusad](https://github.com/abhishekd004)
+
+- Place: India
+- Bio: Developer | Postman Student Expert | Intern at Unthinkable Solution
+- LinkedIn: [Abhishek Dusad](https://www.linkedin.com/in/abhid004/)
+
 #### Name: [Manav Arora](https://github.com/ManavArora26)
 
 - Place: India
