@@ -56,6 +56,13 @@ export default {
             "SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0",
         },
         {
+          name: "Abhishek Dusad",
+          url: "https://www.linkedin.com/in/abhid004/",
+          picture: require("~/assets/Contributors/Abhishek.jpg"),
+          description:
+            "Intern at Unthikable Solution | Postman Student Expert ",
+        },
+        {
           name: "Manav Arora",
           url: "https://www.linkedin.com/in/manav-arora-0090b5202/",
           picture: require("~/assets/Contributors/Manav.jpg"),
