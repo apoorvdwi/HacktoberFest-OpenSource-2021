@@ -247,6 +247,34 @@ export default {
             "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
         },
         {
+          name: "Garvit Verma",
+          url: "https://linkedin.com/in/garvit-verma-95775321b",
+          picture: require("~/assets/Contributors/GarvitV957.jpg"),
+          description:
+            "Data Science and Machine learner | Competitive Programmer | Open Source Enthusiast"
+        },
+        {
+          name: "Rodrigo Labrador Serrano",
+          url: "https://www.linkedin.com/in/rodrigolabrador/",
+          picture: require("~/assets/Contributors/headstylecolorred.jpg"),
+          description:
+            "Developer | Climbing Enthusiast | SwiftUI freak | Always learning"
+        },
+		    {
+          name: "Kriti Pashine",
+          url: "https://www.linkedin.com/in/kriti-pashine-a66980202/",
+          picture: require("~/assets/Contributors/Kriti-999.jpg"),
+          description:
+            "Student ||Programmer || Open Source Enthusiast|| Frontend Developer"
+        },
+        {
+          name: "Shubham Tribedi",
+          url: "https://www.linkedin.com/in/shubham-tribedi/",
+          picture: require("~/assets/Contributors/Shubham.png"),
+          description:
+            "GitHub Extern '21 | Community Specialist Unacademy | Open Source Enthusiast"
+        },
+        {
           name: "Gulshan Jakhon",
           url: "https://www.linkedin.com/in/gulshankumarjakhon/",
           picture: require("~/assets/Contributors/GulshanJakhon.png"),

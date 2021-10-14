@@ -4,7 +4,7 @@
 - Bio: SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0
 - LinkedIn: [Apoorv Dwivedi](https://www.linkedin.com/in/apoorvdwi/)
 
-#### Name: [Manav Arora](https://github.com/ManavArora26)
+#### Name: [[Manav Arora](https://github.com/ManavArora26)
 
 - Place: India
 - Bio: Graphic Designer At Godwill Planners | Flutter Developer | Game Developer | FreeLancer
@@ -142,6 +142,12 @@
 - Competitive Programmer | Web Developer | Software Engineer
 - LinkedIn: [Mayank Jain](https://www.linkedin.com/in/mayank-jain-4927a3191/)
 
+#### Name: [Garvit Verma](https://github.com/GarvitV957)
+
+- Place: India
+- Student | Data Science and Machine learning | Competitive Programmer | Open Source Enthusiast
+- LinkedIn: [Garvit Verma](https://www.linkedin.com/in/garvit-verma-95775321b/)
+
 #### Name: [Kratika Gupta](https://github.com/kratikagupta2002)
 
 - Place: India
@@ -171,6 +177,24 @@
 - Place: Indonesia
 - Bio: Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast
 - LinkedIn: [Azra Muhammad Bhaskarogra](https://www.linkedin.com/in/mhmdbhsk/)
+
+#### Name: [Rodrigo labrador Serrano](https://github.com/headstyleColorRed)
+
+- Place: Spain
+- Bio: Developer | Climbing Enthusiast | SwiftUI freak | Always learning
+- LinkedIn: [Rodrigo Labrador Serrano](https://www.linkedin.com/in/rodrigolabrador/)
+
+#### Name: [Kriti Pashine](https://github.com/Kriti-999)
+
+- Place: India
+- Student ||Programmer || Open Source Enthusiast || Frontend Developer
+- LinkedIn: [Kriti Pashine](https://www.linkedin.com/in/kriti-pashine-a66980202/)
+
+#### Name: [Shubham Tribedi](https://github.com/CoderShubham2000)
+
+- Place: West Bengal, India
+- Bio: GitHub Extern '21 | Community Specialist Unacademy | Open Source Enthusiast
+- LinkedIn: [Shubham Tribedi](https://www.linkedin.com/in/shubham-tribedi/)
 
 #### Name: [Gulshan Jakhon](https://github.com/gulshanjakhon)
 
