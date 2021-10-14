@@ -247,6 +247,13 @@ export default {
             "Developer | Network Enthusiast | Linux Enthusiast | UI/UX Enthusiast | Cyber Security Enthusiast"
         },
         {
+          name: "Garvit Verma",
+          url: "https://linkedin.com/in/garvit-verma-95775321b",
+          picture: require("~/assets/Contributors/GarvitV957.jpg"),
+          description:
+            "Data Science and Machine learner | Competitive Programmer | Open Source Enthusiast"
+        },
+        {
           name: "Rodrigo Labrador Serrano",
           url: "https://www.linkedin.com/in/rodrigolabrador/",
           picture: require("~/assets/Contributors/headstylecolorred.jpg"),
