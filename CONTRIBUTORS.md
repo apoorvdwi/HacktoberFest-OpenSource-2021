@@ -207,3 +207,9 @@
 - Place: India
 - Bio: Student | Flutter Developer | Web Developer
 - LinkedIn: [Yashu Garg](https://www.linkedin.com/in/yashugarg/)
+
+#### Name: [Kashish Kumari](https://github.com/kashishkumari)
+
+- Place: India
+- Bio: Student | Flutter Developer | Tech Enthusiast
+- LinkedIn: [Kashish Kumari](https://www.linkedin.com/in/kashish-kumari-a453991b6/)

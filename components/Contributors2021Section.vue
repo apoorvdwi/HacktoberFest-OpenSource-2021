@@ -288,6 +288,13 @@ export default {
           description:
             "Student | Flutter Developer | Web Developer"
         },
+        {
+          name: "Kashish Kumari",
+          url: "https://www.linkedin.com/in/kashish-kumari-a453991b6/",
+          picture: require("~/assets/Contributors/kashishkumari.jpg"),
+          description:
+            "Student | Flutter Developer | Tech Enthusiast"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
