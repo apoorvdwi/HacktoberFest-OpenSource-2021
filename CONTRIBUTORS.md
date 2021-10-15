@@ -201,3 +201,9 @@
 - Place: India
 - Bio: Student | Linux Enthusiast | Web Developer | Google cloud Participants
 - LinkedIn: [Gulshan Kumar Jakhon](https://www.linkedin.com/in/gulshankumarjakhon/)
+
+#### Name: [Yashu Garg](https://github.com/yashugarg)
+
+- Place: India
+- Bio: Student | Flutter Developer | Web Developer
+- LinkedIn: [Yashu Garg](https://www.linkedin.com/in/yashugarg/)

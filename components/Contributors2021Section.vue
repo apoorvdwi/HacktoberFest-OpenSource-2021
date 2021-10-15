@@ -281,6 +281,13 @@ export default {
           description:
             "Student | Linux Enthusiast | Web Developer | Google cloud Participants"
         },
+        {
+          name: "Yashu Garg",
+          url: "https://www.linkedin.com/in/yashugarg/",
+          picture: require("~/assets/Contributors/yashugarg.jpg"),
+          description:
+            "Student | Flutter Developer | Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
