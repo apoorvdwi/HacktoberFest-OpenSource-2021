@@ -295,6 +295,14 @@ export default {
           description:
             "Student | Flutter Developer | Tech Enthusiast"
         },
+        {
+          name: "Tannistha Pal",
+          url: "https://www.linkedin.com/in/paltannistha/",
+          picture: require("~/assets/Contributors/Tannistha.jpg"),
+          description:
+            "Student | Machine Learning Enthusiast | Google Cloud Participant"
+        },
+
         // Add you data here in the above format, don't change the existing order
       ],
     };

@@ -213,3 +213,9 @@
 - Place: India
 - Bio: Student | Flutter Developer | Tech Enthusiast
 - LinkedIn: [Kashish Kumari](https://www.linkedin.com/in/kashish-kumari-a453991b6/)
+
+#### Name: [Tannistha Pal](https://github.com/paltannistha)
+
+- Place: India
+- Bio: Student | Machine Learning Enthusiast | Google Cloud Participant
+- LinkedIn: [Tannistha Pal](https://www.linkedin.com/in/paltannistha/)
