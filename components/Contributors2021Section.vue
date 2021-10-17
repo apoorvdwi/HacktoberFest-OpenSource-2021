@@ -302,6 +302,13 @@ export default {
           description:
             "Student | Machine Learning Enthusiast | Google Cloud Participant"
         },
+        {
+          name: "Akash Sharma",
+          url: "https://www.linkedin.com/in/akash-sharmaa/",
+          picture: require("~/assets/Contributors/AkashSharma.png"),
+          description:
+            "Student | JavaScript Developer | Web Developer"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
