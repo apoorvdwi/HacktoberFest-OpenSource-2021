@@ -4,6 +4,15 @@
 - Bio: SWE Intern at Intervue | Microsoft Learn Student Ambassador | Core Team - HackOn 2.0, HackThisFall 2.0
 - LinkedIn: [Apoorv Dwivedi](https://www.linkedin.com/in/apoorvdwi/)
 
+
+#### Name: [Jeevan1917](https://github.com/jeevan1917)
+
+-Place: India
+- Bio: Web developer at kenmiya
+- Instagram: mr_playerrr
+
+
+
 #### Name: [[Manav Arora](https://github.com/ManavArora26)
 
 - Place: India
