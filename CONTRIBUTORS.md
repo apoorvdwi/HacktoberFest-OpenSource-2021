@@ -220,6 +220,12 @@
 - Bio: Student | Machine Learning Enthusiast | Google Cloud Participant
 - LinkedIn: [Tannistha Pal](https://www.linkedin.com/in/paltannistha/)
 
+#### Name: [Akash Sharma](https://github.com/Akash2790)
+
+- Place: India
+- Bio: Student | JavaScript Developer | Web Developer
+- LinkedIn: [Akash Sharma](https://www.linkedin.com/in/Akash-Sharmaa/)
+
 #### Name: [Farah Ahmadi](https://github.com/ray0emma)
 
 - Place: Morocco
