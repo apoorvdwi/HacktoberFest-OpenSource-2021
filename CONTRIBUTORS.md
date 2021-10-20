@@ -219,3 +219,9 @@
 - Place: India
 - Bio: Student | Machine Learning Enthusiast | Google Cloud Participant
 - LinkedIn: [Tannistha Pal](https://www.linkedin.com/in/paltannistha/)
+
+#### Name: [Farah Ahmadi](https://github.com/ray0emma)
+
+- Place: Morocco
+- Bio: Self-taught developer | Laravel Enthusiast | Web Developer
+- LinkedIn: [Farah Ahmadi](https://www.linkedin.com/in/farah-ahmadi/)
