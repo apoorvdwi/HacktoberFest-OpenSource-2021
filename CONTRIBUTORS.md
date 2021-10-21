@@ -231,3 +231,9 @@
 - Place: Morocco
 - Bio: Self-taught developer | Laravel Enthusiast | Web Developer
 - LinkedIn: [Farah Ahmadi](https://www.linkedin.com/in/farah-ahmadi/)
+
+#### Name: [Swarna Jha](https://github.com/swarnajha)
+
+- Place: Kolkata
+- Bio: UG CSE student | ML and AI Enthusiast | Web Developer
+- LinkedIn: [Swarna Jha](https://www.linkedin.com/in/swarna-jha-5201291b6)
