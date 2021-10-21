@@ -231,3 +231,9 @@
 - Place: Morocco
 - Bio: Self-taught developer | Laravel Enthusiast | Web Developer
 - LinkedIn: [Farah Ahmadi](https://www.linkedin.com/in/farah-ahmadi/)
+
+#### Name: [Nayan kamal verma](https://github.com/nayankamalverma)
+
+- Place: Kolkata
+- Bio: UG CSE student | c/cpp| Web Developer
+- LinkedIn: [Nayan kamal verma](https://www.linkedin.com/in/nayan-verma-a4b9771b5/)
