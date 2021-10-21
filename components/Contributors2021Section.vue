@@ -303,6 +303,20 @@ export default {
             "Student | Machine Learning Enthusiast | Google Cloud Participant"
         },
         {
+          name: "Akash Sharma",
+          url: "https://www.linkedin.com/in/akash-sharmaa/",
+          picture: require("~/assets/Contributors/AkashSharma.png"),
+          description:
+            "Student | JavaScript Developer | Web Developer"
+        },
+        {
+          name: "Farah Ahmadi",
+          url: "https://www.linkedin.com/in/farah-ahmadi/",
+          picture: require("~/assets/Contributors/Farah.jpg"),
+          description:
+            "Self-taught developer | Laravel Enthusiast | Web Developer"
+        },
+        {
           name: "Nayan kamal verma",
           url: "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
           picture: require("~/assets/Contributors/nayankamalverma.jpg"),
