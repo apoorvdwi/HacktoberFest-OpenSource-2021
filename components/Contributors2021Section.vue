@@ -302,6 +302,13 @@ export default {
           description:
             "Student | Machine Learning Enthusiast | Google Cloud Participant"
         },
+        {
+          name: "Nayan kamal verma",
+          url: "https://www.linkedin.com/in/nayan-verma-a4b9771b5/",
+          picture: require("~/assets/Contributors/nayankamalverma.jpg"),
+          description:
+            " UG CSE student | c/cpp | Web Developer"
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
