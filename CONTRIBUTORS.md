@@ -219,3 +219,9 @@
 - Place: India
 - Bio: Student | Machine Learning Enthusiast | Google Cloud Participant
 - LinkedIn: [Tannistha Pal](https://www.linkedin.com/in/paltannistha/)
+
+#### Name: [Nayan kamal verma](https://github.com/nayankamalverma)
+
+- Place: Kolkata
+- Bio: UG CSE student | c/cpp | Web Developer
+- LinkedIn: [Nayan kamal verma](https://www.linkedin.com/in/nayan-verma-a4b9771b5/)
