@@ -323,7 +323,14 @@ export default {
           description:
             " UG CSE student | c/cpp | Web Developer"
         },
-
+        
+        {
+          name: "Vineet Ahuja",
+          url: "https://www.linkedin.com/in/vineetahuja7/",
+          picture: require("~/assets/Contributors/VineetAhuja.jpg"),
+          description:
+            " UG CSE student | c/cpp | Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
