@@ -237,3 +237,9 @@
 - Place: Kolkata
 - Bio: UG CSE student | c/cpp | Web Developer
 - LinkedIn: [Nayan kamal verma](https://www.linkedin.com/in/nayan-verma-a4b9771b5/)
+
+#### Name: [Vineet Ahuja](https://github.com/VineetAhuja7/)
+
+- Place: Faridabad
+- Bio: UG CSE student | c/cpp | Web Developer
+- LinkedIn: [Vineet Ahuja](https://www.linkedin.com/in/vineetahuja7/)
