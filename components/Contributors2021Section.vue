@@ -218,6 +218,13 @@ export default {
           description:
             "Web Developer | Competitive Programmer | Google Cloud Facilitator"
         },
+        {
+          name: "Gupta Kratika",
+          url: "https://www.linkedin.com/in/kratika-gupta-7495221a5/",
+          picture: require("~/assets/Contributors/Gupta_Kratika.jpg"),
+          description:
+            "Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
