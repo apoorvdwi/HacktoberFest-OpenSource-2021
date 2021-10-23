@@ -147,3 +147,10 @@
 - Place: India
 - Web Developer | Competitive Programmer | Google Cloud Facilitator
 - LinkedIn: [Kratika Gupta](https://www.linkedin.com/in/kratika-gupta-7495221a5/)
+
+#### Name: [Gupta Kratika](https://github.com/kratikagupta2002)
+
+- Place: India
+- Web Developer 
+- LinkedIn: [Kratika Gupta](https://www.linkedin.com/in/kratika-gupta-7495221a5/)
+
