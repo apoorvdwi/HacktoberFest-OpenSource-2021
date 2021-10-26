@@ -237,3 +237,10 @@
 - Place: Kolkata
 - Bio: UG CSE student | c/cpp | Web Developer
 - LinkedIn: [Nayan kamal verma](https://www.linkedin.com/in/nayan-verma-a4b9771b5/)
+
+#### Name: [Vishal](https://github.com/vishalrock1912)
+
+- Place: India
+- Bio: I'm a Big Rock of Ideas.
+- LinkedIn:  [Vishal]
+
