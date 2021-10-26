@@ -323,6 +323,13 @@ export default {
           description:
             " UG CSE student | c/cpp | Web Developer"
         },
+        {
+          name: "Vishal",
+          url: "https://github.com/vishalrock1912",
+          picture: require("~assets/Contributors/Vishal.jpg"),
+          description:
+            "I'm a Big Rock of Ideas."
+        },
 
         // Add you data here in the above format, don't change the existing order
       ],
