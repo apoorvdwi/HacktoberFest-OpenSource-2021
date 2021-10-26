@@ -243,3 +243,9 @@
 - Place: Faridabad
 - Bio: UG CSE student | c/cpp | Web Developer
 - LinkedIn: [Vineet Ahuja](https://www.linkedin.com/in/vineetahuja7/)
+
+#### Name: [Ayush Yadav](https://github.com/ayushyado)
+
+- Place: Bangalore
+- Bio: UG CSE student | c/cpp | Web Developer
+- LinkedIn: [Ayush Yadav](https://www.linkedin.com/in/ayush-yadav-7a75571a5/)

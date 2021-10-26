@@ -331,6 +331,13 @@ export default {
           description:
             " UG CSE student | c/cpp | Web Developer"
         },
+        {
+          name: "Ayush Yadav",
+          url: "https://www.linkedin.com/in/ayush-yadav-7a75571a5/",
+          picture: require("~/assets/Contributors/ayush_yadav.jpg"),
+          description:
+            " UG CSE student | c/cpp | Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };
