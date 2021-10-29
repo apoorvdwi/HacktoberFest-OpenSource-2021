@@ -338,6 +338,13 @@ export default {
           description:
             " UG CSE student | c/cpp | Web Developer"
         },
+        {
+          name: "Shruti Arora",
+          url: "https://www.linkedin.com/in/shrutiiaroraaa/",
+          picture: require("~/assets/Contributors/Shrutii.png"),
+          description:
+            " UG CSE student | Python Enthusiast | Web Developer"
+        },
         // Add you data here in the above format, don't change the existing order
       ],
     };

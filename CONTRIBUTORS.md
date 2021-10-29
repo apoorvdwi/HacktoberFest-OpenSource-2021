@@ -249,3 +249,10 @@
 - Place: Bangalore
 - Bio: UG CSE student | c/cpp | Web Developer
 - LinkedIn: [Ayush Yadav](https://www.linkedin.com/in/ayush-yadav-7a75571a5/)
+
+
+#### Name: [Shruti Arora](https://github.com/shrutiiaroraaa)
+
+- Place: Delhi
+- Bio: UG CSE student | Python Enthusiast | Web Developer
+- LinkedIn: [Shruti Arora](https://www.linkedin.com/in/shrutiiaroraaa/)
